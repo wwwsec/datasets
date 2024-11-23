@@ -183,3 +183,6 @@ https://github.com/HCIILAB/SCUT-FBP5500-Database-Release
 MakeUp : 
 http://www.antitza.com/makeup-datasets.html
 
+亚洲明星 :
+https://www.seeprettyface.com/mydataset_page2.html#asian_beauty
+
